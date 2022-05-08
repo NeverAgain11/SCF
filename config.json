@@ -85,7 +85,8 @@
     {
         "global":
         {
-            "timeout": 10
+		"timeout": 10,
+		"exec":"sync"
         },
         "jd_try":
         {
